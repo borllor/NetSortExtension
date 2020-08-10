@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetSortExtension", "NetSortExtension\NetSortExtension.csproj", "{5F9FBEBF-0BB7-47F2-A4E2-7D26DCA0D20E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4194A624-3C86-4888-BF70-D40513FF2686}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F9FBEBF-0BB7-47F2-A4E2-7D26DCA0D20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9FBEBF-0BB7-47F2-A4E2-7D26DCA0D20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9FBEBF-0BB7-47F2-A4E2-7D26DCA0D20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9FBEBF-0BB7-47F2-A4E2-7D26DCA0D20E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4505779-3B03-4B75-8299-7AD6F43EF1E7}
+	EndGlobalSection
+EndGlobal
